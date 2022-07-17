@@ -6,6 +6,10 @@ body
     font-size: 18px;
     margin: 0;
 }
+#cabecera
+{
+   background-color: #aaf;  
+}
 #container
 {
     width: 70%;
