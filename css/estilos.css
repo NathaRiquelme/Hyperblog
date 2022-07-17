@@ -1,8 +1,14 @@
 body
 {
-    color: #333;
+    color: darkcyan;
     text-align: center;
     font-family: "Arial";
+    font-size: 18px;
+    margin: 0;
+}
+#cabecera
+{
+   background-color: #aaf;  
 }
 #container
 {
